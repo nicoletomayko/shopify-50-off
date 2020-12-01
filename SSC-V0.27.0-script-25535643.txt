@@ -1,0 +1,1 @@
+{"version":"ShopifyScriptCreatorFile-V0.27.0","type":"line_item","campaigns":[{"name":"ConditionalDiscount","active":true,"label":"50% off one item","id":1,"inputs":[":all",{"name":"none"},{"name":"CodeQualifier","inputs":[":does",":match","[\"DISCOUNT_CODE\"]"]},{"name":"none"},{"name":"PercentageDiscount","inputs":[50,"\"\""]},1]}]}
